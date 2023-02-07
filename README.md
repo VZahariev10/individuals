@@ -1,4 +1,4 @@
-# veselin-zahariev-final-project-2
+# veselin-zahariev-project-individuals
 
 
 
